@@ -9,7 +9,7 @@ The purpose of this activity is to use Machine Learning and Neural Networks to c
 2. Complie, Train, and Evaluate the Model
 3. Optomize the Model 
 
-### Results: Using bulleted lists and images to support your answers, address the following questions.
+### Results: 
 
 Data Preprocessing
 - What variable(s) are considered the target(s) for your model?
