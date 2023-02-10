@@ -26,4 +26,7 @@ EIN and NAME were two variables that neighter target nor features
 
 ### Summary: 
 
-Unfortunately, tensorflow was unable to download to my computer. This left me unable to accomplish Delivereable 2 and 3. I will keep working on fixing it to complete Deliverable 2 and 3.  
+<img width="813" alt="Screenshot 2023-02-09 at 11 05 39 PM" src="https://user-images.githubusercontent.com/108151049/217998103-520ef42a-94fe-4a36-9f08-54010658dbf7.png">
+
+<img width="606" alt="Screenshot 2023-02-09 at 11 05 11 PM" src="https://user-images.githubusercontent.com/108151049/217998038-b7ec8405-6d3c-4927-84a3-aa084b278448.png">
+
